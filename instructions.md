@@ -165,3 +165,6 @@ Be sure to include the following:
 - your report in the file named [README.md](./README.md).
 
 ![Pushing work in Visual Studio Code](./images/vscode_stage_commit_push.png)
+
+
+mongoimport --headerline --type=csv --db=dt2211 --collection=listings --host=class-mongodb.cims.nyu.edu --file=listings_clean.csv --username=dt2211 --password=fTJuvj(i10
